@@ -1,6 +1,6 @@
 # Pleased to meet you, I'm **Keran**!
   <div align= "left">
-    I currently work as a back end developer using Java, Spring Boot and Maven.</br>
+    I currently work as a back-end developer using Java, Spring Boot and Maven.</br>
     I have a degree in Systems Analysis and Development.</br>
     I'm passionate about divine teachings, I'm married and I have a dog called Bisteca.</br> 
     I'm a Crossfter, I love reading, studying and having coffee with my friends.</br>
