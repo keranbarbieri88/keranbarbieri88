@@ -2,14 +2,15 @@
   <div align= "left">
     I currently work as a back-end developer using Java, Spring Boot and Maven.</br>
     I have a degree in Systems Analysis and Development.</br>
-    I'm passionate about divine teachings, I'm married and I have a dog called Bisteca.</br> 
+    I'm passionate about divine teachings, I have a dog called Bisteca.</br> 
     I'm a Crossfter, I love reading, studying and having coffee with my friends.</br>
     I hope that I can contribute in some way to your learning, <br>
     and that together we can develop our skills as programmers.
-  </div>
-  <div align= "right" >
+    <div align= "right" >
     <img src="https://github.com/user-attachments/assets/575eb8eb-76a1-4a10-b40c-d4e12944e9df" width="400px">
+    </div>
   </div>
+  
 
 
 ### Connect with me
@@ -69,8 +70,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keranbarbieri88&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-
-### Most used languages
-
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=keranbarbieri88&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
